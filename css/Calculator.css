@@ -1,0 +1,126 @@
+.calculator-screen input{
+    height: 30px;
+    margin-top: 80px;
+    margin-left: 380px;
+    padding-left: 293px;
+}
+
+.container-1 {
+    margin-left: 434px;
+    margin-top: -1px;
+}
+
+.container-1 input {
+    padding-right: 46px;
+    padding-left: 46px;
+}
+
+.container-2 {
+    margin-left: 430px;
+    margin-top: -2px;
+}
+
+.number-7 {
+    padding-right: 52px;
+    padding-left: 51px;
+    margin-right: -6px;
+}
+
+.number-8 {
+    padding-left: 51px;
+    padding-right: 50px;
+    margin-right: -6px;
+}
+
+.number-9 {
+    padding-left: 48px;
+    padding-right: 48px;
+    margin-right: -6px;
+}
+
+.number-x {
+    padding-left: 48px;
+    padding-right: 46px;
+    background-color: orange;
+}
+
+.container-3 {
+    margin-left: 434px;
+    margin-top: -2px;
+}
+
+.number-4 {
+    padding-right: 52px;
+    padding-left: 51px;
+    margin-right: -6px;
+}
+
+.number-5 {
+    padding-right: 49px;
+    padding-left: 52px;
+    margin-right: -6px;
+}
+
+.number-6 {
+    padding-right: 48px;
+    padding-left: 48px;
+    margin-right: -6px;
+}
+
+.number-s {
+    padding-right: 46px;
+    padding-left: 49px;
+    background-color: orange;
+}
+
+.container-4 {
+    margin-left: 434px;
+    margin-top: -2px;
+}
+
+.number-1 {
+    padding-right: 52px;
+    padding-left: 51px;
+    margin-right: -6px;
+}
+
+.number-2 {
+    padding-right: 49px;
+    padding-left: 52px;
+    margin-right: -6px;
+}
+
+.number-3 {
+    padding-right: 48px;
+    padding-left: 48px;
+    margin-right: -6px;
+}
+
+.number-a {
+    padding-right: 45px;
+    padding-left: 47px;
+    background-color: orange;
+}
+
+.container-5 {
+    margin-left: 434px;
+    margin-top: -2px;
+}
+
+.number-z {
+    padding-right: 106px;
+    padding-left: 110px;
+    margin-right: -6px;
+}
+
+.number-d {
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: -6px;
+}
+
+.number-e {
+    padding-right: 45px;
+    padding-left: 47px;
+    background-color: orange;
+}
